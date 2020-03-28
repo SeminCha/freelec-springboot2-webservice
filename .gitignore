@@ -1,3 +1,4 @@
-# Created bt .ignore support plugin
+# Created by .ignore support plugin
 .gradle
 .idea
+application-oauth.properties
